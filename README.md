@@ -43,18 +43,18 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-- Websites added to (https://courses.codepath.org/snippets/summer_internship_for_tech_excellence/prework)
+  Websites added to (https://courses.codepath.org/snippets/summer_internship_for_tech_excellence/prework)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-- For the last guess function, it was a challenge to try out diffrent methods to make the function work.
+  For the last guess function, it was a challenge to try out diffrent methods to make the function work.
   Some challenges I've faced when creating this websire was adding images to the clicks on the buttons and adding a function to generate random patterns.
   through the resources provided, I was able to created a working funtion that generated a random pattern for 7 rounds per game.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-- What some way to create a timer on a website?
+  What some way to create a timer on a website?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-- With more time, I would have tried to impliment a timer where the player has to complete the game in a set time.
+  With more time, I would have tried to impliment a timer where the player has to complete the game in a set time.
   I would have also made a function that would let me the player choose difficulty in the game.
 
 
