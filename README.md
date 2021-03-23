@@ -43,7 +43,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-  Websites added to (https://courses.codepath.org/snippets/summer_internship_for_tech_excellence/prework)
+- Websites added to (https://courses.codepath.org/snippets/summer_internship_for_tech_excellence/prework)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 - For the last guess function, it was a challenge to try out diffrent methods to make the function work.
