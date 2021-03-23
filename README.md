@@ -46,7 +46,7 @@ Here's a walkthrough of implemented user stories:
  
   Websites added to (https://courses.codepath.org/snippets/summer_internship_for_tech_excellence/prework)
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 
   For the last guess function, it was a challenge to try out diffrent methods to make the function work.
   Some challenges I've faced when creating this websire was adding images to the clicks on the buttons and adding a function to generate random patterns.
